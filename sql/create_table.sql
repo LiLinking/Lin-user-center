@@ -1,8 +1,8 @@
 -- 创建库
-create database if not exists yupi;
+create database if not exists usertable;
 
 -- 切换库
-use yupi;
+use usertable;
 
 -- auto-generated definition
 create table user
