@@ -1,6 +1,14 @@
 # Lin 的学习圈子
 
-用户管理，管理员可对用户进行增删改查操作，用户可以修改自己的信息
+用户中心系统，基于Spring Boot后端＋React前端的全栈项目，实现了用户注册、登录、查询等基础功能。
+管理员可对用户进行增删改查操作，用户可以修改自己的信息。
+
+## 技术选型
+- Java编程语言
+- Spring + SpringMVC + SpringBoot框架
+- MyBatis + MyBatis Plus 数据访问框架
+- MySQL 数据库
+- jUnit单元测试库
 
 ## byLiLin
 
